@@ -1,1 +1,5 @@
-# daos-u22-build-a-lemp-stack
+### U22, LEMP —( L ) Linux
+
+`anup@ubuntu-22041-100-anuniqsTV:~$ cat /etc/os-release`
+
+`anup@ubuntu-22041-100-anuniqsTV:~$ sudo apt-get update`
