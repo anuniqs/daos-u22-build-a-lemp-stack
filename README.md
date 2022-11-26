@@ -228,7 +228,7 @@ Configuration, `anup@ubuntu-22041-100-anuniqsTV:~$ ls -ltr /etc/mysql/`
 
 
 
-##### Login as anup,
+#### Login as anup,
 
 `anup@ubuntu-22041-100-anuniqsTV:~$ mysql -u anuniqs -p`
 
